@@ -1,7 +1,5 @@
 # Hi there, I'm Rodina Amr Mukhtar 
 
-##  Profile Summary
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodinaAmrMukhtar&theme=github)
 
 
