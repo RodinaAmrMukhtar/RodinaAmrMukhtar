@@ -1,18 +1,13 @@
 # Hi there, I'm Rodina Amr Mukhtar 👋
 
-Welcome to my GitHub profile 🚀
-
-I focus on:
-- Programming Languages
-- Operating Systems
-- Web Development
-- Modern Frameworks
+Welcome to my GitHub profile 🚀  
+I focus on programming languages, operating systems, and web frameworks.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=default)
 
 ---
 
@@ -30,7 +25,7 @@ I focus on:
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=default)
 
 ---
 
@@ -40,8 +35,20 @@ I focus on:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=RodinaAmrMukhtar&theme=flat&no-frame=true&margin-w=10)
+
+---
+
+## 📋 Profile Summary
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodinaAmrMukhtar&theme=github)
 
 ---
 
@@ -51,4 +58,4 @@ I focus on:
 
 ---
 
-⭐ From **RodinaAmrMukhtar**
+⭐️ From [RodinaAmrMukhtar](https://github.com/RodinaAmrMukhtar)
