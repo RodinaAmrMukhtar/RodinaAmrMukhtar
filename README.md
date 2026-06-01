@@ -5,11 +5,6 @@
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodinaAmrMukhtar&theme=github)
 
 ---
-##  Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodinaAmrMukhtar&theme=github-light)
-
----
 
 ## Profile Views
 
