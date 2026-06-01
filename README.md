@@ -32,8 +32,12 @@ Here’s a snapshot of my activity and skills:
 
 ---
 
-## 👀 Profile Views (Tracked with GA Beacon)
+## 👀 Profile Views
+**GA Beacon (detailed analytics)**  
 ![Analytics](https://ga-beacon.appspot.com/G-Q1XW97GVDJ/RodinaAmrMukhtar-profile?pixel)
+
+**Hits Badge (visible counter)**  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RodinaAmrMukhtar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
 
 ---
 ⭐️ From [RodinaAmrMukhtar](https://github.com/RodinaAmrMukhtar)
