@@ -2,27 +2,16 @@
 
 Welcome to my GitHub profile 🚀  
 I focus on programming languages, operating systems, and web frameworks.  
-Here’s a snapshot of my activity and skills:
 
 ---
 
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=default)](https://github.com/RodinaAmrMukhtar)
-
----
-
-## Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodinaAmrMukhtar&theme=github-light)](https://github.com/RodinaAmrMukhtar)
-
----
-
-## Streak Stats
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RodinaAmrMukhtar&theme=default)](https://github.com/RodinaAmrMukhtar)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=default)
 
 ---
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=default)](https://github.com/RodinaAmrMukhtar)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=default)
 
 ---
 
@@ -37,13 +26,11 @@ Here’s a snapshot of my activity and skills:
 ---
 
 ## Profile Views
-
-**GA Beacon (detailed analytics)**  
-![Analytics](https://ga-beacon.appspot.com/G-Q1XW97GVDJ/RodinaAmrMukhtar-profile?pixel)
-
-**Hits Badge (visible counter)**  
+**Visible Counter (Hits Badge)**  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RodinaAmrMukhtar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
 
----
+**Detailed Analytics (GA Beacon)**  
+![Analytics](https://ga-beacon.appspot.com/G-Q1XW97GVDJ/RodinaAmrMukhtar-profile?pixel)
 
+---
 ⭐️ From [RodinaAmrMukhtar](https://github.com/RodinaAmrMukhtar)
