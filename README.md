@@ -7,18 +7,18 @@ Here’s a snapshot of my activity and skills:
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=default)
 
 ## 🔥 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodinaAmrMukhtar&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RodinaAmrMukhtar&theme=github-light)
 
 ## ⚡ Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RodinaAmrMukhtar&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RodinaAmrMukhtar&theme=default)
 
 ---
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=default)
 
 ---
 
@@ -32,8 +32,8 @@ Here’s a snapshot of my activity and skills:
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=RodinaAmrMukhtar&color=blue)
+## 👀 Profile Views (Tracked with GA Beacon)
+![Analytics](https://ga-beacon.appspot.com/G-Q1XW97GVDJ/RodinaAmrMukhtar-profile?pixel)
 
 ---
 ⭐️ From [RodinaAmrMukhtar](https://github.com/RodinaAmrMukhtar)
