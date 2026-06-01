@@ -1,7 +1,4 @@
-# Hi there, I'm Rodina Amr Mukhtar 👋
-
-Welcome to my GitHub profile 🚀  
-I focus on programming languages, operating systems, and web frameworks.
+# Hi there, I'm Rodina Amr Mukhtar 
 
 ##  Profile Summary
 
