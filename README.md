@@ -1,13 +1,27 @@
+```md
 # Hi there, I'm Rodina Amr Mukhtar 👋
 
-Welcome to my GitHub profile 🚀  
-I focus on programming languages, operating systems, and web frameworks.
+### 💻 Software Developer
+
+I enjoy building applications, exploring operating systems, learning new technologies, and creating modern web solutions.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodinaAmrMukhtar&show_icons=true&theme=default)
+- 🌱 Always learning and improving
+- 💻 Interested in Web Development
+- ⚙️ Passionate about Programming Languages
+- 🖥️ Operating Systems Enthusiast
+- 🎯 Focused on writing clean and maintainable code
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,git,github,vscode" />
+</p>
 
 ---
 
@@ -17,38 +31,42 @@ I focus on programming languages, operating systems, and web frameworks.
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RodinaAmrMukhtar&theme=default)
 
 ---
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodinaAmrMukhtar&layout=compact&theme=default)
-
----
-
-## 🛠️ Tech Stack
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RodinaAmrMukhtar&theme=flat&no-frame=true&margin-w=10)
-
----
-
-## 📋 Profile Summary
+## 📊 GitHub Summary
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodinaAmrMukhtar&theme=github)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodinaAmrMukhtar&theme=github)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodinaAmrMukhtar&theme=github)
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodinaAmrMukhtar&theme=github)
+
+---
+
+## 🏆 Featured Projects
+
+### 🚀 Project Name
+Short description of what the project does.
+
+### 🚀 Project Name
+Short description of what the project does.
+
+### 🚀 Project Name
+Short description of what the project does.
+
+---
+
+## 📫 Connect With Me
+
+<a href="https://github.com/RodinaAmrMukhtar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -58,4 +76,14 @@ I focus on programming languages, operating systems, and web frameworks.
 
 ---
 
-⭐️ From [RodinaAmrMukhtar](https://github.com/RodinaAmrMukhtar)
+## ⚡ Fun Facts
+
+- 🖥️ I enjoy exploring operating systems.
+- 💡 I like learning new technologies and frameworks.
+- 🚀 Always building and improving projects.
+- ☕ Powered by caffeine and curiosity.
+
+---
+
+⭐ Thanks for visiting my profile!
+```
